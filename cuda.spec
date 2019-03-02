@@ -7,10 +7,10 @@
 
 %global         debug_package %{nil}
 %global         __strip /bin/true
-%global         major_package_version 10-0
+%global         major_package_version 10-1
 
 Name:           cuda
-Version:        10.0.130
+Version:        10.1.105
 Release:        1%{?dist}
 Summary:        NVIDIA Compute Unified Device Architecture Toolkit
 Epoch:          1
